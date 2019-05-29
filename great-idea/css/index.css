@@ -193,16 +193,113 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	border-bottom: 1px solid black;
 }
 
 .digital-design {
 	background-color:#E8E8E8;
 	padding: 20px;
 	border: 1px solid black;
-	width: 40%;
+	width: 48%;
+	margin-bottom: 40px;
 }
 
 .digital-design button {
+	background-color:#F0F0F0;
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.UX-UI {
+	background-color:#E8E8E8;
+	padding: 20px;
+	border: 1px solid black;
+	width: 48%;
+	margin-bottom: 40px;
+}
+
+.UX-UI button {
+	background-color:#F0F0F0;
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.digital-marketing {
+	background-color:#E8E8E8;
+	padding: 20px;
+	border: 1px solid black;
+	width: 48%;
+	margin-bottom: 40px;
+}
+
+.digital-marketing button {
+	background-color:#F0F0F0;
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.web-development {
+	background-color:#E8E8E8;
+	padding: 20px;
+	border: 1px solid black;
+	width: 48%;
+	margin-bottom: 40px;
+}
+
+.web-development button {
+	background-color:#F0F0F0;
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.iOS-development {
+	background-color:#E8E8E8;
+	padding: 20px;
+	border: 1px solid black;
+	width: 48%;
+	margin-bottom: 40px;
+}
+
+.iOS-development button {
+	background-color:#F0F0F0;
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.android-development {
+	background-color:#E8E8E8;
+	padding: 20px;
+	border: 1px solid black;
+	width: 48%;
+	margin-bottom: 40px;
+}
+
+.android-development button {
 	background-color:#F0F0F0;
 	margin-top: 20px;
 	border: 1px solid black;
