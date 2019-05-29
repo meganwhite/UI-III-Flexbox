@@ -182,6 +182,7 @@ footer {
 	margin: 30px;
 	border-bottom: 1px solid black;
 	padding-bottom: 30px;
+	width: 880px;
 }
 
 .services-text h1 {
@@ -194,6 +195,7 @@ footer {
 	flex-wrap: wrap;
 	justify-content: space-between;
 	border-bottom: 1px solid black;
+	width: 880px;
 }
 
 .digital-design {
@@ -308,4 +310,16 @@ footer {
 	padding-left: 15px;
 	padding-top: 5px;
 	padding-bottom: 5px;
+}
+
+.services-facts {
+	margin: 30px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 880px;
+}
+
+.services-facts-text{
+	width: 45%;
 }
