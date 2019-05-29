@@ -173,3 +173,42 @@ header nav{
 footer {
 	margin: 30px;
 }
+
+.services-header-img {
+	margin: 30px;
+}
+
+.services-text {
+	margin: 30px;
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+}
+
+.services-text h1 {
+	font-size: 200%;
+}
+
+.services-container {
+	margin: 30px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.digital-design {
+	background-color:#E8E8E8;
+	padding: 20px;
+	border: 1px solid black;
+	width: 40%;
+}
+
+.digital-design button {
+	background-color:#F0F0F0;
+	margin-top: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
